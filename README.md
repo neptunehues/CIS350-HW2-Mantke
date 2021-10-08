@@ -11,5 +11,5 @@
 - Basic git and terminal experience
 
 ## Favorite meme
-Enjoy https://i.kym-cdn.com/entries/icons/original/000/028/431/kirby.jp
+Enjoy https://i.kym-cdn.com/entries/icons/original/000/028/431/kirby.jpg
 
